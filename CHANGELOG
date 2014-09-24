@@ -3,3 +3,12 @@
 
 24/09/14
   Ajout du copyright et mise en forme de l'entête du fichier FFDetect.sh
+  Ajout des informations suivantes dans ce même fichier, à compléter :
+    #title
+    #description
+    #author
+    #date
+    #version  
+    #usage
+    #notes
+    #bash_version
