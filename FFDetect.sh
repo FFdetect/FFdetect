@@ -18,6 +18,16 @@
 #################################################################################
 
 #!/bin/bash
+#title           :FFDetect.sh
+#description     :.
+#author		 :Generation automatique de regles Snort pour la detection des Reseaux Fast-Flux:
+#date            :240914
+#version         :1    
+#usage		 :
+#notes           :Install Vim and Emacs to use this script.
+#bash_version    :
+
+
 
 #### Variables
 
