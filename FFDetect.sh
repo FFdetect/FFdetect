@@ -2,7 +2,7 @@
 # Copyright (C) 2014 Jean-Philippe MONTEUUIS, Julien HUOR,			#
 # Marc HOFMANN, Valentin BEAUVISAGE- All Rights Reserved			#
 #										#
-# This program is free software: you can redistribute it and/or modify		#
+#     This program is free software: you can redistribute it and/or modify	#
 #     it under the terms of the GNU General Public License as published by	#
 #     the Free Software Foundation, either version 3 of the License, or		#
 #     (at your option) any later version.					#
@@ -19,8 +19,8 @@
 
 #!/bin/bash
 #title           :FFDetect.sh
-#description     :.
-#author		 :Generation automatique de regles Snort pour la detection des Reseaux Fast-Flux:
+#description     :Generation automatique de regles Snort pour la detection des Reseaux Fast-Flux
+#authors	 :Jean-Philippe MONTEUUIS, Julien HUOR, Marc HOFMANN, Valentin BEAUVISAGE
 #date            :240914
 #version         :1    
 #usage		 :
